@@ -1,1 +1,4 @@
 The widget tree with stateful widgets etc ...
+
+Added Functionalities
+and more logic to the working of the app
